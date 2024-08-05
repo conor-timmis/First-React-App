@@ -6,6 +6,10 @@ function App() {
   return (
     <div className="App">
       <FunctionalGreeting />
+      <FunctionalGreeting />
+      <FunctionalGreeting />
+      <FunctionalGreeting />
+      <FunctionalGreeting />
       </div>
   );
 }
